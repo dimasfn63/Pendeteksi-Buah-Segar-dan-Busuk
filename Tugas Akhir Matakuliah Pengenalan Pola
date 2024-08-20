@@ -6,3 +6,8 @@ jumper, load cell, HX711, TICS3200, dan LCD. Metode pengerjaan yang dipakai
 pada penelitian ini yaitu klasifikasi yang menggunakan naive bayes. Hasil dari 
 klasifikasi yang digunakan pada alat ini menunjukkan bahwa nilai akurasi 
 mencapai 0.93 atau 93%. Di mana hasil tersebut merupakan hasil yang tinggi. 
+
+proses yang terdiri dari proses penentuan buah anggur matang dan buah anggur busuk. 
+Dalam percobaan kali ini saya menggunakan sampel 25 anggur matang dan 25 anggur busuk, 
+yang dimana nantinya akan dibaca oleh 2 sensor yanitu sensor warna (TCS3200) dan sensor berat Loadcell (HX711). 
+Dalam pengambilan sampel warna saya hanya menggunakan sampel warna merah dan untuk berat saya menggunakan loadcell 1 kg. 
