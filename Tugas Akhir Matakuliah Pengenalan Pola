@@ -1,1 +1,8 @@
-Praktikum ini menggunakan sensor berat (loadcell) dan sensor warna TSC3200
+Klasifikasi Buah Anggur Matang dan Busuk Berbasis Arduino UNO 
+adalah alat yang digunakan untuk menentukan buah anggur yang matang 
+berdasarkan berat dan warna buah anggur dengan menggunakan sensor load cell 
+dan TICS3200. Hardware yang digunakan adalah arduino uno, boardband, kabel 
+jumper, load cell, HX711, TICS3200, dan LCD. Metode pengerjaan yang dipakai 
+pada penelitian ini yaitu klasifikasi yang menggunakan naive bayes. Hasil dari 
+klasifikasi yang digunakan pada alat ini menunjukkan bahwa nilai akurasi 
+mencapai 0.93 atau 93%. Di mana hasil tersebut merupakan hasil yang tinggi. 
